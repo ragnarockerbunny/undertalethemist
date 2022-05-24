@@ -1,0 +1,3 @@
+/// @Init input object
+
+getInput();

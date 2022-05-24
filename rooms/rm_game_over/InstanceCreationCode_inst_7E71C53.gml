@@ -1,0 +1,1 @@
+txt = "GIVE UP?"
