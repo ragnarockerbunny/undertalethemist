@@ -1,3 +1,2 @@
 /// @description Insert description here
-
-room_goto(rm_area01);
+if(target!=-1) room_goto(target);
