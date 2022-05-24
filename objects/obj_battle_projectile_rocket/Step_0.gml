@@ -1,7 +1,5 @@
 /// @move projectile
 
-
-
 if instance_exists(obj_playerheart) {
 	dir = point_direction(x,y,obj_playerheart.x,obj_playerheart.y);
 }

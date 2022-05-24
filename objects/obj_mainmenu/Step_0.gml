@@ -11,9 +11,10 @@ switch(state){
 		if(keyboard_check_pressed(vk_enter) || input.key_interact){
 			switch(cursor_y){
 				case 0://Continue
+					room_goto(rm_test);
 					break;
 				case 1://New
-					room_goto(rm_test);
+					room_goto(rm_cutscene01);
 					break;
 				case 2://Load
 					break;

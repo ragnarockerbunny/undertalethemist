@@ -1,16 +1,13 @@
 {
   "spriteId": {
-    "name": "spr_enemy_rocket_launcher",
-    "path": "sprites/spr_enemy_rocket_launcher/spr_enemy_rocket_launcher.yy",
+    "name": "spr_openingcinematic",
+    "path": "sprites/spr_openingcinematic/spr_openingcinematic.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "obj_battle_projectile_parent",
-    "path": "objects/obj_battle_projectile_parent/obj_battle_projectile_parent.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -25,17 +22,16 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":7,"eventType":7,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Enemies and Projectiles",
-    "path": "folders/Objects/Enemies and Projectiles.yy",
+    "name": "Misc",
+    "path": "folders/Objects/Misc.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_battle_projectile_rocket",
+  "name": "obj_openingcinematic",
   "tags": [],
   "resourceType": "GMObject",
 }

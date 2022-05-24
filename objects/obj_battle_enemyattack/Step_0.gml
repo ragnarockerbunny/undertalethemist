@@ -9,7 +9,7 @@ if(obj_game.player_hp<=0){
 var xx = camera_get_view_x(view_camera[0]);
 var yy = camera_get_view_y(view_camera[0]);
 
-//Placement of Battle Square
+//Placement of Battle Square, ie. the square the battle takes place in during the enemy's attack
 var battle_square_start_x = xx+115;
 var battle_square_start_y = yy+139;
 var battle_square_end_x = xx+204;
