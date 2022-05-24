@@ -1,2 +1,2 @@
 # undertalethemist
-RagnarockerBunny's Undertale The Mist Repository
+Undertale The Mist Repository
