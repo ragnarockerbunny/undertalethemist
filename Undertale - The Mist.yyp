@@ -16,6 +16,7 @@
     {"id":{"name":"obj_floating_number","path":"objects/obj_floating_number/obj_floating_number.yy",},"order":1,},
     {"id":{"name":"spr_battleui_act_deselected","path":"sprites/spr_battleui_act_deselected/spr_battleui_act_deselected.yy",},"order":4,},
     {"id":{"name":"draw_some_text","path":"objects/draw_some_text/draw_some_text.yy",},"order":0,},
+    {"id":{"name":"obj_savepoint","path":"objects/obj_savepoint/obj_savepoint.yy",},"order":2,},
     {"id":{"name":"obj_vfx","path":"objects/obj_vfx/obj_vfx.yy",},"order":2,},
     {"id":{"name":"spr_battleui_playerattack_frontplate","path":"sprites/spr_battleui_playerattack_frontplate/spr_battleui_playerattack_frontplate.yy",},"order":5,},
     {"id":{"name":"spr_gaster_idle_down","path":"sprites/spr_gaster_idle_down/spr_gaster_idle_down.yy",},"order":1,},
@@ -76,6 +77,7 @@
     {"id":{"name":"rm_battletest","path":"rooms/rm_battletest/rm_battletest.yy",},"order":2,},
     {"id":{"name":"spr_battleui_heart","path":"sprites/spr_battleui_heart/spr_battleui_heart.yy",},"order":0,},
     {"id":{"name":"spr_battleui_mercy_selected","path":"sprites/spr_battleui_mercy_selected/spr_battleui_mercy_selected.yy",},"order":11,},
+    {"id":{"name":"spr_savepoint","path":"sprites/spr_savepoint/spr_savepoint.yy",},"order":0,},
     {"id":{"name":"wrap","path":"scripts/wrap/wrap.yy",},"order":2,},
     {"id":{"name":"rm_game_over","path":"rooms/rm_game_over/rm_game_over.yy",},"order":5,},
     {"id":{"name":"obj_battle_projectile_orb","path":"objects/obj_battle_projectile_orb/obj_battle_projectile_orb.yy",},"order":3,},
@@ -150,6 +152,7 @@
     {"folderPath":"folders/Objects/Misc.yy","order":6,"resourceVersion":"1.0","name":"Misc","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Rooms/First Area.yy","order":3,"resourceVersion":"1.0","name":"First Area","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Rooms/Test Rooms.yy","order":7,"resourceVersion":"1.0","name":"Test Rooms","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/World Objects and Props.yy","order":13,"resourceVersion":"1.0","name":"World Objects and Props","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
