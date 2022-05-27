@@ -7,5 +7,5 @@ if instance_exists(obj_playerheart) {
 spd = 0.6;
 x_velocity = 0;
 y_velocity = 0;
-alarm[0] = 70;
+alarm[0] = 80;
 
