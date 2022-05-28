@@ -50,7 +50,8 @@ switch(state){
 			player_attackmodifier+= modspeed *modifier_dir;
 			if(abs(player_attackmodifier)>= 10){
 				var fltnum = instance_create_depth(camera_get_view_x(view_camera[0]) + 160, camera_get_view_y(view_camera[0]) + 72, depth-1, obj_floating_number);
-				fltnum.value = "MISS";
+				fltnum.value = "";
+				fltnum.sprite_index = spr_miss;
 				state = ENEMY_ATTACK;
 			}
 			else if(input.key_interact){

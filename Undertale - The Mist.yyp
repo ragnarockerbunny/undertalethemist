@@ -84,6 +84,7 @@
     {"id":{"name":"spr_battleui_item_selected","path":"sprites/spr_battleui_item_selected/spr_battleui_item_selected.yy",},"order":9,},
     {"id":{"name":"rm_mainmenu","path":"rooms/rm_mainmenu/rm_mainmenu.yy",},"order":1,},
     {"id":{"name":"rm_area03","path":"rooms/rm_area03/rm_area03.yy",},"order":2,},
+    {"id":{"name":"spr_miss","path":"sprites/spr_miss/spr_miss.yy",},"order":14,},
     {"id":{"name":"spr_battleui_playerattack","path":"sprites/spr_battleui_playerattack/spr_battleui_playerattack.yy",},"order":4,},
     {"id":{"name":"rm_init","path":"rooms/rm_init/rm_init.yy",},"order":0,},
   ],
